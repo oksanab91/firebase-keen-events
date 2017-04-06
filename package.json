@@ -1,0 +1,8 @@
+{
+  "name": "firebase-keen",
+  "version": "1.0.0",
+  "dependencies": {
+    "firebase": "^3.7.5",
+    "keen.io": "^0.1.3"
+  }
+}
